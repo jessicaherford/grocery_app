@@ -1,0 +1,53 @@
+html{
+  width: 100%;
+}
+
+body{
+  background-color: black;
+  text-align: center;
+  color:white;
+}
+
+header{
+  margin: 10px auto;
+  width: 80%;
+  padding: 30px;
+  font-size: 40px;
+}
+
+h1{
+  color: yellow;
+}
+
+h1:hover{
+  color: white;
+}
+
+h2{
+  color: green;
+}
+
+h3{
+  color: white;
+}
+
+input{
+  height: 20px;
+  width: 190px;
+}
+#list{
+  color:white;
+}
+
+li{
+  color: white;
+  list-style-type: none;
+}
+
+button{
+  display: block;
+  margin: 20px auto;
+}
+
+#checkbox{
+}
